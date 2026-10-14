@@ -16,5 +16,4 @@
 ## 참고
 
 - 사용 언어/도구: C, Python 등
-- 관련 과제: [Git & Github 활용 실습](https://github.com)
 - 라이선스: `LICENSE` 파일 참고 (MIT License)
